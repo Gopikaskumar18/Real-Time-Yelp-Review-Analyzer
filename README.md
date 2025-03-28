@@ -29,4 +29,5 @@ This project simulates the processing of live Yelp review data. It:
 
 ---
 
-[Click here to view the full PDF report](Real-Time-Yelp-Analyzer-Report.pdf)
+[Click here to view the full PDF report](Dashboard.pdf)
+
